@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\bin\Debug\Kasir_Peertemuan6.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\bin\Debug\Kasir_Peertemuan6.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\bin\Debug\Kasir_Peertemuan6.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Peertemuan6.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Peertemuan6.MainForm.resources
+C:\Users\ASUS\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Peertemuan6.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Peertemuan6.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Peertemuan6.pdb
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Peertemuan6.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Peertemuan6.MainForm.resources
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Peertemuan6.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\bin\Debug\Kasir_Final.exe.config
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\bin\Debug\Kasir_Final.exe
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\bin\Debug\Kasir_Final.pdb
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Final.exe
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Kasir_Peertemuan6\Kasir_Peertemuan6\obj\Debug\Kasir_Final.pdb
